@@ -1,4 +1,4 @@
-#  Hello! My Name is Benjamin Jackson.
+#  Benjamin Jackson.
 I am currently a CS student at the University of Pittsburgh.  
 You can reach me at benjaminjjackson92@gmail.com
 
